@@ -1,0 +1,1 @@
+{:deps {kunstmusik/pink {:mvn/version "0.4.1"}}}
